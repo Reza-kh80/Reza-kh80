@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Startup Project](hidden)
 
-- 🌱 I’m currently learning **Backend Web**
+- 🌱 I’m currently learning **Artificial Intelligence / NLP**
 
 - 📫 How to reach me **r.kheradmandi70@gmail.com**
 
