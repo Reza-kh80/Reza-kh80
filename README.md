@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [My Startup Project](hidden)
 
-- 🌱 I’m currently learning **Artificial Intelligence / NLP**
-
 - 📫 How to reach me **r.kheradmandi70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
