@@ -1,82 +1,89 @@
 <div align="center">
-  <h1>Hi 👋, I'm Reza Kheradmandi</h1>
-  <h3>A passionate Front-End Developer specializing in building modern and responsive web applications.</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Reza%20Kheradmandi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Open-Source%20Creator&descAlignY=55&descSize=20" width="100%"/>
+
+<a href="https://daxra.ir" target="_blank"><img src="https://img.shields.io/badge/Portfolio-daxra.ir-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:r.kheradmandi70@gmail.com"><img src="https://img.shields.io/badge/Email-r.kheradmandi70%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/reza-kherdmandi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/LeoRezakh" target="_blank"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+SaaS+platforms;Golang+%2B+Next.js+%2B+TypeScript;Creator+of+zod-ir;Pixel-perfect+UI%2FUX+enthusiast" alt="Typing SVG" />
+
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<p>
-  I'm a Front-End Developer with over <strong>3 years of experience</strong> in software development. My primary focus is on creating dynamic user experiences with <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>.
-</p>
+I'm a **Senior Full-Stack Developer** with **3+ years of experience** designing scalable web architectures and high-performance SaaS platforms. I build modern frontends with **Next.js**, **React**, and **TypeScript**, backed by robust **Golang** and **NestJS** APIs.
 
-- 🔭 I have hands-on experience working on a variety of projects, including AI-based **SaaS** platforms, multi-vendor **e-commerce** sites, and **educational** applications.
-- 🌱 I also have practical experience on the backend, developing REST APIs with **Node.js**, **Express**, and working with **MySQL** databases.
-- 🎨 I enjoy turning complex problems into beautiful and intuitive UIs and have a strong proficiency in bringing **Figma** designs to life.
-- 📫 You can reach me at: **r.kheradmandi70@gmail.com**.
+- 🚀 **Open-Source** — creator and maintainer of **[zod-ir](https://www.npmjs.com/package/zod-ir)**, a high-performance TypeScript validation library for Iranian data formats
+- 🔭 **Currently building** AI-driven SaaS platforms, multi-vendor e-commerce architectures, and complex data-intensive dashboards
+- 🌱 **Architecture** — RESTful APIs and real-time data flows with **Golang**, **NestJS**, **Node.js**, **PostgreSQL**, and **MySQL**
+- 🎨 **UI/UX** — pixel-perfect interfaces with **Tailwind CSS**, benchmarked against top-tier product design standards
+- 💬 **Ask me about** Go backends, Next.js architecture, RTL/Persian web apps, and developer tooling
 
----
+<br/>
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/reza-kherdmandi" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reza Kheradmandi's LinkedIn"/>
-  </a>
-  <a href="https://github.com/Reza-kh80" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Reza Kheradmandi's GitHub"/>
-  </a>
-  <a href="https://t.me/LeoRezakh" target="blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Reza Kheradmandi's Telegram"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
-</p>
-
-<p align="left">
-  <strong>Backend:</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<p align="left">
-  <strong>Styling:</strong><br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</p>
-
-<p align="left">
-  <strong>Tools & DevOps:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
-
-### 📊 My GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reza-kh80&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-<!--   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Reza-kh80&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" /> -->
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=go,nestjs,nodejs,postgres,mysql,graphql&theme=dark" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,cypress,figma,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Reza-kh80&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-kh80&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6C63FF&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reza-kh80&hide_border=true&theme=tokyonight&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Reza-kh80&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Reza-kh80/Reza-kh80/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>Thanks for stopping by — feel free to reach out anytime 👋</sub>
+
 </div>
