@@ -19,10 +19,10 @@
 
 I'm a **Front-End Focused Full-Stack Developer** with **3+ years** of experience turning designs into fast, accessible, pixel-perfect interfaces. I lean deep into the front-end — **React**, **Next.js**, **TypeScript** — and I'm comfortable enough on the back end (**Go**, **NestJS**, **PostgreSQL**) to ship a feature end-to-end without waiting on anyone.
 
-- 🎨 Front-end is where I live — component architecture, state management, and UI that actually feels good to use
+- 🎨 Front-end is where I live — component architecture, state management, and UI that feels good to use
 - 🚀 Creator of **[zod-ir](https://www.npmjs.com/package/zod-ir)** — a TypeScript validation library for Iranian data formats
-- 🌱 Still leveling up my back-end depth, one project at a time
-- 💬 Happy to talk about React architecture, Next.js, RTL/Persian web apps, or clean UI
+- 🌱 Building out my back-end range one project at a time
+- 💬 Happy to talk React architecture, Next.js, or RTL/Persian web apps
 
 <br/>
 
@@ -34,13 +34,6 @@ I'm a **Front-End Focused Full-Stack Developer** with **3+ years** of experience
 </div>
 
 <br/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Reza-kh80&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-kh80&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6C63FF&langs_count=8" />
-
-</div>
 
 <div align="center">
 
